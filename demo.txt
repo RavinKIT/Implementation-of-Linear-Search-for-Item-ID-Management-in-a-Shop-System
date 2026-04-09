@@ -1,0 +1,25 @@
+Data Structures Mini Project – Linear Search
+
+Demo Execution Steps:
+
+1.  Compile the program: javac LinearSearchProject.java
+
+2.  Run the program: java LinearSearchProject
+
+3.  Sample Run:
+
+Enter number of items: 5 Enter item IDs: 10 20 30 40 50 Enter item ID to
+search: 30
+
+Output: Item found at position: 3
+
+4.  Another Case:
+
+Enter number of items: 5 Enter item IDs: 10 20 30 40 50 Enter item ID to
+search: 60
+
+Output: Item not found
+
+Description: The program takes item IDs as input and searches for a
+given key using linear search. If found, it prints the position.
+Otherwise, it displays not found.
